@@ -23,14 +23,19 @@ int taille1 = 0;
 void Entete()
 {
     system("cls");
-    printf("|=====================================================================|\n");
-    printf("|                GESTION D'INSERTIONS DANS TABLEAU                    |\n");
-    printf("|                                                                     |\n");
-    printf("| Presente par                                          Dirige par    |\n");
-    printf("| FOTSI TAKAM Harel Franck                              M. GUIFO       |\n");
-    printf("|                                                                     |\n");
-    printf("|ING 1                                                  2024-2025      |\n");
-    printf("|=====================================================================|\n");
+    printf("\n");
+    printf("|=========================================================================|\n");
+    printf("|                  INSTITUT AFRICAIN D'INFORMATIQUE                       |\n");
+    printf("|-------------------------------------------------------------------------|\n");
+    printf("|                     PROGRAMMATION IMPERATIVE                            |\n");
+    printf("|-------------------------------------------------------------------------|\n");
+    printf("|                 GESTION D'INSERTIONS DANS UN TABLEAU                    |\n");
+    printf("|                                                                         |\n");
+    printf("| Presente par : FOTSI TAKAM Harel Franck           Dirige par : M. GUIFO |\n");
+    printf("|                                                                         |\n");
+    printf("| Classe : ING 1                                     Annee : 2024-2025    |\n");
+    printf("|=========================================================================|\n");
+    printf("\n");
 }
 
 /* Affiche le contenu d'un tableau */
